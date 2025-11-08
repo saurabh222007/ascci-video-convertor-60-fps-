@@ -1,0 +1,5 @@
+{
+  "name": "ASCII Video Converter",
+  "description": "An application that converts any video@60fps into an ASCII art style animation. Upload a video to see it transformed into a pixelated character-based representation in real-time.",
+  "requestFramePermissions": []
+}
